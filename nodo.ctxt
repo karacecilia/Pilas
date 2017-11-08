@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=nodo()
+comment1.params=v
+comment1.target=nodo(int)
+comment2.params=v
+comment2.target=void\ setValor(int)
+comment3.params=p
+comment3.target=void\ setProx(nodo)
+comment4.params=
+comment4.target=int\ getValor()
+comment5.params=
+comment5.target=nodo\ getProx()
+numComments=6

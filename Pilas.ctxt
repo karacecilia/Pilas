@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pilas()
+comment1.params=
+comment1.target=boolean\ vacia()
+comment2.params=valor
+comment2.target=void\ push(int)
+comment3.params=
+comment3.target=void\ cima()
+comment4.params=
+comment4.target=void\ peek()
+comment5.params=
+comment5.target=void\ pop()
+numComments=6
